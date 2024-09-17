@@ -3,7 +3,7 @@
 let A = 0;
 let B = 0;
 
-const width = 80;  // Largura do terminal
+const width = 110;  // Largura do terminal
 const height = 60; // Altura do terminal
 
 // Variáveis para o efeito de fogo
